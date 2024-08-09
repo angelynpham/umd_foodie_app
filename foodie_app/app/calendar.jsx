@@ -101,7 +101,6 @@ const styles = StyleSheet.create({
     fontWeight: "bold",
     paddingVertical: 8,
     paddingHorizontal: 10,
-    // backgroundColor: "#eee",
     color: "#92140C",
   },
   eventName: {
